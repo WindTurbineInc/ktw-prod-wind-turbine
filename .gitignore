@@ -43,5 +43,5 @@ node_modules/
 build/
 dist/
 .quinoa/
-
+.quarkus
 src/main/kubernetes/openshift.yml
